@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Whisper cache files
+mel_filters.npz
+whisper-turbo-mlx/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride 

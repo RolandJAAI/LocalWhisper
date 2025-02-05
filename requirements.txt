@@ -1,0 +1,4 @@
+pynput
+pyperclip
+git+https://github.com/JosefAlbers/whisper-turbo-mlx.git
+pygame 
