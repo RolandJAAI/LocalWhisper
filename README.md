@@ -85,8 +85,8 @@ The application uses a chunking system that:
 
 ## Credits
 
-Made by @RolandJAAI
-based on the whisper-turbo-mlx project by @jiaaro
+Made by [@RolandJAAI](https://github.com/RolandJAAI)
+based on the whisper-turbo-mlx project by [@jiaaro](https://github.com/jiaaro)
 
 ## License
 
