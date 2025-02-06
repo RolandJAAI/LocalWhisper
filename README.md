@@ -30,8 +30,8 @@ brew install ffmpeg
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/RolandJAAI/macWhisper-turbo.git
-cd macWhisper-turbo
+git clone https://github.com/RolandJAAI/LocalWhisper.git
+cd LocalWhisper
 ```
 
 3. Create and activate a virtual environment:
