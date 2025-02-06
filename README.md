@@ -1,6 +1,8 @@
 # LocalWhisper MLX
 
-![LocalWhisper MLX Icon](mic_readme_icon.png)
+<div align="center">
+  <img src="mic_readme_icon.png" alt="LocalWhisper MLX Icon">
+</div>
 
 A simple voice transcription app using whisper-turbo-mlx (based on the whisper-turbo-mlx project by @jiaaro), optimized for Apple Silicon Macs. Creates a little button to record audio and get instant transcription to your clipboard. Just Paste the result into your document or where ever you need it. It just works.
 
