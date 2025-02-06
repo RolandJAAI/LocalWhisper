@@ -4,7 +4,7 @@
   <img src="mic_readme_icon.png" alt="LocalWhisper MLX Icon">
 </div>
 
-A simple voice transcription app using whisper-turbo-mlx (based on the whisper-turbo-mlx project by [@jiaaro](https://github.com/jiaaro)), optimized for Apple Silicon Macs. Creates a little button to record audio and get instant transcription to your clipboard. Minimal processing time and then you have the transcript in your clipboard and can paste it wherever you want. It just works, also for longer audio (chunking).
+A simple privacy preserving voice transcription app using whisper-turbo-mlx (based on the whisper-turbo-mlx project by [@jiaaro](https://github.com/jiaaro)), optimized for Apple Silicon Macs. Creates a little button to record audio and get instant transcription to your clipboard. No data leaves your machine. Minimal processing time and then you have the transcript in your clipboard and can paste it wherever you want. It just works, also for longer audio (chunking).
 
 
 ## Features
